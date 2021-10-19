@@ -29,15 +29,19 @@ public class Oneframe {
         // After creating the JLabel, it is important to add it to the JFrame
         // This is done using the below code
         frame.getContentPane().add(textLabel, BorderLayout.CENTER);
+        
         // Displaying the created window
         // The below code makes window to be at the center of the screen
         frame.setLocationRelativeTo(null);
+        
         // The below sets the window's size
         // the pack() method looks at what the JFrame contains
         // And automatically sets the size of the window based on it
         // Hence, in this case, pack() ensures the window is large enough
         // to hold the JLabel
+        
         frame.pack();
+        
         // To show the created widow, the setVisible() method need be applied
         frame.setVisible(true);        
     }    

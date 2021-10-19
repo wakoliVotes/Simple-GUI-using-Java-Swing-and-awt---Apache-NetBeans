@@ -63,5 +63,4 @@ public class Oneframe {
 
 ### Runtime Screen
 - Below is the resulting screen, with the window and message display
-- ![Message](https://user-images.githubusercontent.com/77758884/137915999-095fe41f-2e1a-40e9-9977-21299c50dc00.jpg)
-
+![Message](https://user-images.githubusercontent.com/77758884/137915999-095fe41f-2e1a-40e9-9977-21299c50dc00.jpg)

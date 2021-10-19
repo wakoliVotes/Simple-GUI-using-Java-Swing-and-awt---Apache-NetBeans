@@ -50,11 +50,11 @@ public class Oneframe {
 - To compile and run the created program, use command line to to file location
 - Then, first complile the program using the statement below;
 
-     javac oneframe.java
+     <code>javac oneframe.java</code>
 
 - Next, run the script using the statement below;
 
-     java oneframe.java
+     <code>java oneframe.java</code>
 <hr>
 
 ### Runtime Screen

@@ -22,6 +22,8 @@ public class Oneframe {
         
         // Action that will take place if there is closing window        
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        
+        // Display text content
         JLabel textLabel = new JLabel("Good Morning, it is amazing "
                 + "to see you are awake. Ciao! "
                 + "I love doning this, and it is amazing", SwingConstants.CENTER);
